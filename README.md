@@ -27,8 +27,8 @@ There are a number of changes that can be done to the program to better cater fo
 ### Adding/Removing/Editing conditions
 
 A user may elect to change the conditions found in [filter_conditions.py](./src/utils/filter_conditions.py):
-    - Change the dictionary of CONDITIONS to allow more or less data to be filtered out, dependant on the {column_name:[list_of_data_to_retain]} changed;
-    - Change the list of CONTINENTS_TO_KEEP to specify which continents you would like to keep;
+* Change the dictionary of CONDITIONS to allow more or less data to be filtered out, dependant on the {column_name:[list_of_data_to_retain]} changed;
+* Change the list of CONTINENTS_TO_KEEP to specify which continents you would like to keep;
 
 ### Amending columns to keep in final files
 
