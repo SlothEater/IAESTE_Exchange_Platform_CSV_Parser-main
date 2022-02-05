@@ -5,9 +5,9 @@ The idea behind this project was to allow IAESTE Exec members to filter through 
 This was accomplished though a series of filters performed in Python through Pandas DataFrames. The version of Python used was 3.8.7, however any Python3 version should work on it.
 
 Currently there are a total of 3 filters available:
-    - ExchangeType, which retains COBE and FCFS
-    - OfferType, which retains non-remote jobs
-    - Country, which would retain all countries of a given continent
+* ExchangeType, which retains COBE and FCFS
+* OfferType, which retains non-remote jobs
+* Country, which would retain all countries of a given continent
 
 ## Importing the data
 
